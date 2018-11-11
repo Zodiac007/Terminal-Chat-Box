@@ -1,0 +1,22 @@
+{
+  "name": "terminal-chat-backend",
+  "version": "0.0.1",
+  "description": "Chat's backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "chat"
+  ]
+}
